@@ -1,7 +1,7 @@
 
-function multiplicationTable(n) {
+function multiplicationTable(num) {
     for (var i = 1; i <= 10; i++) {
-        console.log(n + " × " + i + " = " + i * n);
+        console.log(num + " × " + i + " = " + i * num);
     }
 }
 
